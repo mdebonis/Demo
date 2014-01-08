@@ -24,7 +24,7 @@
 production:
   adapter: postgresql
   encoding: unicode
-  #database: myapp_development
-	database: young-brook-3618
+  database: demo_development
+	#database: young-brook-3618
   pool: 5
   password:
